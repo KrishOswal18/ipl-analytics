@@ -1,0 +1,12 @@
+# raw and processed data are rebuilt by `python -m ipl run`
+data/raw/
+data/processed/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+web/node_modules/
+web/dist/
+.DS_Store
+*.tsbuildinfo

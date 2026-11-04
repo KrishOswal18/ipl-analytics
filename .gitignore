@@ -10,3 +10,7 @@ web/node_modules/
 web/dist/
 .DS_Store
 *.tsbuildinfo
+
+# vercel
+.vercel/
+.env*.local
